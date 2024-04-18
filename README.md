@@ -1,1 +1,1 @@
-A file I made a while ago to try and implement a MergeSort algorithm in Python.
+A few sorting algorithms I made a while ago.
